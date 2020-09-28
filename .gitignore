@@ -1,8 +1,5 @@
-hacpack_backup/
-Build*/*
-build
+build/
 .vscode/
-ExeFs/*
-Control/control.nacp
-prod.keys
-Browser.*
+*.elf
+*.nro
+*.nacp
